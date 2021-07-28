@@ -19,3 +19,4 @@ To view operators which leverage Go, Ansible, or Helm for deployment, see the [G
 [ansible_examples]:./ansible/
 [helm_examples]:./helm/
 [awesome-operators]:https://github.com/operator-framework/awesome-operators
+aa
